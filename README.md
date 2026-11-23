@@ -9,3 +9,4 @@ This project is a learning exercise if something practical comes from it that is
 
 Core tools
 - Python
+- Local AI
